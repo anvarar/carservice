@@ -1,0 +1,10 @@
+Develop the flask rest api based platform for Create, Retrieve, update, delete and predict avg price for buying,
+ selling and inquiry.
+
+1) Load the data using the given json under dataset folder
+2) Create the endpoint for handling requests for retrieve specific car info, create, update , filters etc..
+3) Whatever the new changes made to the dataset should be saved to the json file
+4) dataset should only only load once using respective hook
+5) Vehicle number should only exposed to the PRIME Customer
+7) user can order the car , based on customer type discount rate will be applied
+8) customers can sell his/her car based on the car properties, system should auto suggest the price based on specification
